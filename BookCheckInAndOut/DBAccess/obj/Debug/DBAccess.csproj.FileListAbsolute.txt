@@ -1,0 +1,11 @@
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\DBAccess.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\DBAccess.pdb
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\obj\Debug\DBAccess.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\DBAccess\obj\Debug\DBAccess.pdb

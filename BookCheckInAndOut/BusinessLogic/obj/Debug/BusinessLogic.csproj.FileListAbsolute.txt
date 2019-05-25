@@ -1,0 +1,11 @@
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\DBAccess.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\DBAccess.pdb
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\BookCheckInAndOut\BookCheckInAndOut\BusinessLogic\obj\Debug\BusinessLogic.pdb
